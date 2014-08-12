@@ -3,7 +3,7 @@
   "description": "mapbox plugin to create embeddable maps through leaflet",
   "homepage": "https://github.com/mrcwinn/mapbox",
   "author": "Chris Winn (http://chriswinn.com)",
-  "version": "1.5.0",
+  "version": "2.0.1",
   "git": "https://github.com/mrcwinn/mapbox.git",
   "packages": { }
 }

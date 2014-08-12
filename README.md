@@ -1,6 +1,6 @@
 mapbox
 ==================
-mapbox 1.5.0 packaged for meteor
+mapbox 2.0.1 packaged for meteor
 
 
 ### to install

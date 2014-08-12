@@ -1,6 +1,6 @@
 {
   "name": "mapbox",
-  "description": "mapbox plugin to create embeddable maps through leaflet",
+  "description": "mapbox plugin to create embeddable maps through leaflet on the client",
   "homepage": "https://github.com/mrcwinn/mapbox",
   "author": "Chris Winn (http://chriswinn.com)",
   "version": "2.0.1",

@@ -1,5 +1,5 @@
 Package.describe({
-	summary: "Adds MapBox CSS and JS"
+	summary: "Adds MapBox CSS and JS to the client"
 });
 
 Package.on_use(function (api) {
